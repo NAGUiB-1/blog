@@ -401,7 +401,7 @@ li {
   cursor: pointer;
 }
 
-@media only screen and (max-width:700px) {
+@media only screen and (max-width:850px) {
   nav {
     gap: .5rem;
     padding: .4rem;
